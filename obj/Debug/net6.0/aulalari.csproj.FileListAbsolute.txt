@@ -1,0 +1,15 @@
+C:\Users\jessi\mynew\aulalari\bin\Debug\net6.0\aulalari.exe
+C:\Users\jessi\mynew\aulalari\bin\Debug\net6.0\aulalari.deps.json
+C:\Users\jessi\mynew\aulalari\bin\Debug\net6.0\aulalari.runtimeconfig.json
+C:\Users\jessi\mynew\aulalari\bin\Debug\net6.0\aulalari.dll
+C:\Users\jessi\mynew\aulalari\bin\Debug\net6.0\aulalari.pdb
+C:\Users\jessi\mynew\aulalari\obj\Debug\net6.0\aulalari.csproj.AssemblyReference.cache
+C:\Users\jessi\mynew\aulalari\obj\Debug\net6.0\aulalari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\mynew\aulalari\obj\Debug\net6.0\aulalari.AssemblyInfoInputs.cache
+C:\Users\jessi\mynew\aulalari\obj\Debug\net6.0\aulalari.AssemblyInfo.cs
+C:\Users\jessi\mynew\aulalari\obj\Debug\net6.0\aulalari.csproj.CoreCompileInputs.cache
+C:\Users\jessi\mynew\aulalari\obj\Debug\net6.0\aulalari.dll
+C:\Users\jessi\mynew\aulalari\obj\Debug\net6.0\refint\aulalari.dll
+C:\Users\jessi\mynew\aulalari\obj\Debug\net6.0\aulalari.pdb
+C:\Users\jessi\mynew\aulalari\obj\Debug\net6.0\aulalari.genruntimeconfig.cache
+C:\Users\jessi\mynew\aulalari\obj\Debug\net6.0\ref\aulalari.dll
